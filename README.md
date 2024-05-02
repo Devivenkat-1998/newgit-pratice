@@ -1,1 +1,1 @@
-# newgit-pratice
+only for pratice purpouse
